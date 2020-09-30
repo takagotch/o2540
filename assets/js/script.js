@@ -1,4 +1,4 @@
-import 'pre-loader.js';
+import * as appMaster from 'pre-loader.js';
 
 var appMaster = {
   
